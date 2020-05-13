@@ -9,4 +9,4 @@ This repository houses Current Version Instruction String Files (plain text file
 
 
 #### ADDENDUM
-See  [[Autoexec routines](https://www.autohotkey.com/docs/Scripts.htm#auto)] to understand the order and manner of this type of execution.
+See  [a. [Autoexec routines](https://www.autohotkey.com/docs/Scripts.htm#auto)] to understand the order and manner of this type of execution.
